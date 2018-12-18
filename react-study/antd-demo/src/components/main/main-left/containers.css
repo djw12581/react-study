@@ -1,0 +1,10 @@
+.page ul{
+    text-align: left;
+}
+
+.ant-list-item-content {
+    overflow:hidden; 
+    white-space:nowrap; 
+    width:20rem;
+    text-overflow: ellipsis;
+}

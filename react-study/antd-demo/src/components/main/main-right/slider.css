@@ -1,0 +1,8 @@
+.slider {
+
+}
+.slider ul li img{
+    max-width: 100%;
+    width: 100%;
+    padding: 0.35rem 0;
+}
